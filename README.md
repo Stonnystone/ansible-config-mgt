@@ -1,1 +1,1 @@
-# Jenkins-Anmdible-Configuration-Management
+# Jenkins-Ansible-Configuration-Management
