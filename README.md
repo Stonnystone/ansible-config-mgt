@@ -1,3 +1,3 @@
 # Jenkins-Ansible-Configuration-Management
 
-This is a sample test of the CI process.
+This is a sample ansible-jenkins CI configuration mgt file.
